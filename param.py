@@ -1,0 +1,6 @@
+EPS = 1.
+EPSX4 = EPS * 4.
+EPSX48 = EPS * 48
+SIGMA = 1.
+SIGMA2 = SIGMA * SIGMA
+N = 2
